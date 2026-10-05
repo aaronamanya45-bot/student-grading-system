@@ -1,4 +1,4 @@
-# Student Grading System 📚
+# STUDENT GRADING SYSTEM📚
 
 A console-based **Node.js** application that lets a lecturer enter student
 names and marks, then automatically calculates each student's grade,
