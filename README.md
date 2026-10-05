@@ -139,8 +139,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**[Your Full Name]**
-- Access Number: B36757
+**[AMANYA AARON]**
 - GitHub: [@your-username](https://github.com/your-username)
 
 ---
